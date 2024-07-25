@@ -1,0 +1,13 @@
+.logos {
+  display: flex;
+  width: 100px;
+  justify-content: space-between;
+  font-size: 32px;
+  text-align: center;
+  margin: 0px auto;
+}
+
+.logos > a {
+  text-decoration: none;
+  color: rgb(101, 197, 101);
+}

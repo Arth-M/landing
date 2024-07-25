@@ -1,0 +1,14 @@
+.footer {
+  background-color: rgb(70, 64, 64);
+  background-size: cover;
+  padding: 70px 0px;
+  text-align: center;
+}
+
+.footer > p {
+  color: rgb(105, 97, 97)
+}
+
+.footer > p > i {
+  color: red;
+}
